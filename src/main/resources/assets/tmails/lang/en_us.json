@@ -1,0 +1,23 @@
+{
+  "item.tmails.writable_mail" : "Mail Draft",
+  "item.tmails.common_mail" : "§bMail",
+
+  "gui.tmails.done_button" : "Done",
+  "gui.tmails.stamp_button" : "Stamp",
+  "gui.tmails.translate_button" : "Translate",
+  "gui.tmails.close_button" : "Close Mail",
+
+  "cloth.tmails.title" : "TMails Settings",
+  "cloth.tmails.auto_translate": "Auto Translate",
+  "cloth.tmails.auto_translate_tooltip": "Should all mails be translated automatically upon new page?",
+
+  "mail.tmails.invalid": "* Invalid mail tag *",
+
+  "auth.tmails.no_token" : "§cNo valid token selected for TMails.",
+  "auth.tmails.sucess" : "Valid token authorized for TMails.",
+
+  "translation.tmails.general_error" : "§c* An error occurred during translation *",
+  "translation.tmails.quota" : "§cOpenAI Api quota has ben exceeded for TMails.",
+  "translation.tmails.context" : "§cOpenAI refused the prompt for containing too much context.",
+  "translation.tmails.error" : "§cAn error occurred while communicating with OpenAi."
+}
